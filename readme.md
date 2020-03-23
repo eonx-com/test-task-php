@@ -1,6 +1,6 @@
-# LoyaltyCorp Test Task
+# EonX Test Task
 
-This project is the code base of the PHP Test Task for the company [Loyalty Corp][1]. 
+This project is the code base of the PHP Test Task for the company [EonX][1]. 
 It is based on a really simple version of [Laravel Lumen][2].
 
 ## Context
@@ -38,7 +38,7 @@ To complete this task you can either:
 - Fork this repository, update the code base and send the URL of your repository to the reviewer(s)
 - Clone this repository into your local environment, update the code base and send a zip of the repository to the reviewer(s)
 
-[1]: https://loyaltycorp.com.au
+[1]: https://eonx.com
 [2]: https://lumen.laravel.com
 [3]: http://developer.mailchimp.com/documentation/mailchimp/reference/overview
 [4]: http://developer.mailchimp.com/documentation/mailchimp/reference/lists
