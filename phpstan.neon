@@ -1,0 +1,6 @@
+parameters:
+    ignoreErrors:
+        - '#Call to an undefined method Illuminate\\Http\\Response|Laravel\\Lumen\\Http\\ResponseFactory::json().#'
+        - '#Call to an undefined method Mockery\\ExpectationInterface|Mockery\\HigherOrderMessage::once().#'
+        - '#Parameter \#2 \$mailchimp of class App\\Http\\Controllers\\MailChimp\\ListsController constructor expects Mailchimp\\Mailchimp, Mockery\\MockInterface given.#'
+        - '#Undefined variable: \$router#'
